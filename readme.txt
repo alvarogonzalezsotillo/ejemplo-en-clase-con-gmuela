@@ -1,3 +1,3 @@
 Un fichero de readme para el repositorio
-Le pongo mas de una fila
-Para que la cambie otro
+Le pongo yo ahora la fila
+Este cambio lo hace Guillermo
